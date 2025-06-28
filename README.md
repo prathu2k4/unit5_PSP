@@ -421,7 +421,6 @@ $$
 X_s(f) = H(f) \cdot X(f)
 $$
 
-Here, $H(f)$ is the spectral shaping function (typically derived from a filter).
 ---
 ### ✅ **How Signal Bandwidth Is Altered by Modulation**
 
