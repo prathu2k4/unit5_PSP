@@ -678,8 +678,6 @@ $$
 
 If $H(f)$ is a **low-pass filter**, then high-frequency components in $S_X(f)$ are suppressed in $S_Y(f)$.
 
-
-
-Let me know if you'd like a numerical example or MATLAB/Python code to visualize this.
-
-
+---
+> ⚠️ This repository is protected. Unauthorized copying or reuse is prohibited.
+> © 2025 Pratham Jain. All rights reserved.
