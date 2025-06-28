@@ -641,9 +641,13 @@ Recall:
 
 * PSD is the Fourier transform of autocorrelation:
 
+
+
   $$
-  S_Y(f) = \mathcal{F}\{R_Y(\tau)\}
+  S_Y(f) = mathbb{F}\{R_Y(\tau)\}
   $$
+
+
 * Use **Convolution Theorem** in frequency domain:
 
   * Convolution in time → Multiplication in frequency
